@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Fulberto TCHIAKPE
 
-[![](https://img.shields.io/badge/-Fulberto_GillesChrist-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/@Fulberto98)
+[![](https://img.shields.io/badge/Twitter-Fulberto_GillesChrist-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/@Fulberto98)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
