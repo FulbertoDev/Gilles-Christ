@@ -4,9 +4,9 @@ I am web and mobile developer.
 
 [![](https://img.shields.io/badge/Twitter-Fulberto_GillesChrist-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/@Fulberto98)
 
-:computer: Currently working at [OpenSI](https://opensi.co) as Mobile Developer.
+💻 Currently working at [OpenSI](https://opensi.co) as Mobile Developer.
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 mobile 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 Flutter, Kotlin and Java.
+🫡 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 mobile 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 Flutter, Kotlin and Java.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
